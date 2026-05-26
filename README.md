@@ -26,6 +26,7 @@ Execute o arquivo principal com:
 
 ```bash
 python main.py
+```
 
 ## Autor
 
